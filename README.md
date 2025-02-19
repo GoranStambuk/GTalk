@@ -1,2 +1,2 @@
 # GTalk
-Social Networking App
+Social networking app
